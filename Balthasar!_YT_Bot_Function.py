@@ -27,7 +27,8 @@ links = ["https://www.youtube.com/watch?v=BjEwupErcSU",
 "https://www.youtube.com/watch?v=poH30nEYU3A",
 "https://www.youtube.com/watch?v=oCp5Enjkc2s",
 "https://www.youtube.com/watch?v=-ApgDc9Z6tg",
-"https://www.youtube.com/watch?v=hK1DkSVMBbw"]
+"https://www.youtube.com/watch?v=hK1DkSVMBbw"
+"https://www.youtube.com/watch?v=zyNQJdKfflU"]
 
 daily_views = 3
 
