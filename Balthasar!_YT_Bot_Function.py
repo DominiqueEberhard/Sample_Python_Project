@@ -24,7 +24,6 @@ from pytube import YouTube
 from collections import Counter
 
 links = ["https://www.youtube.com/watch?v=BjEwupErcSU",
-"https://www.youtube.com/watch?v=poH30nEYU3A",
 "https://www.youtube.com/watch?v=oCp5Enjkc2s",
 "https://www.youtube.com/watch?v=-ApgDc9Z6tg",
 "https://www.youtube.com/watch?v=hK1DkSVMBbw"
